@@ -3,7 +3,8 @@ This project was done after my bootcamp at Pearls Africa Foundation.
 This app web app was built to recommend music & movies to users and also users can listen to songs and watch movie thrillers on the web site.
 Users can also read biographies of casts from any particular movie.
 To access the web app, users must be signed in. 
-The section to download movies hasn't been integrated yet.
+Music interface of the website hasn't been integrated yet.
+Also, The section to download movies hasn't been integrated yet.
 This repository is open to contributions.
 
 
