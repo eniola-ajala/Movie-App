@@ -1,4 +1,4 @@
-This project was done after my bootcamp at Pearls Africa Foundation.
+This project was done at Pearls Africa Foundation.
 
 This app web app was built to recommend music & movies to users and also users can listen to songs and watch movie thrillers on the web site.
 Users can also read biographies of casts from any particular movie.
